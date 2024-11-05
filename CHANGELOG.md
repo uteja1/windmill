@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.419.0](https://github.com/windmill-labs/windmill/compare/v1.418.0...v1.419.0) (2024-11-05)
+
+
+### Features
+
+* Add full-text search on windmill service logs ([#4576](https://github.com/windmill-labs/windmill/issues/4576)) ([77735d8](https://github.com/windmill-labs/windmill/commit/77735d859cfee9204f67a8e4f9885228d657a41d))
+* show path in flow script picker ([#4574](https://github.com/windmill-labs/windmill/issues/4574)) ([8e27392](https://github.com/windmill-labs/windmill/commit/8e27392afacbb725aaf9f9f892ab8a6171b59ce5))
+* websocket authentication ([#4635](https://github.com/windmill-labs/windmill/issues/4635)) ([4dda0fb](https://github.com/windmill-labs/windmill/commit/4dda0fb8cd8262ad3a2ab2b9d27e7043ac3bb891))
+
 ## [1.418.0](https://github.com/windmill-labs/windmill/compare/v1.417.3...v1.418.0) (2024-11-04)
 
 
